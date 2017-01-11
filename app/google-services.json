@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "9370608580",
+    "firebase_url": "https://boatx-db4b0.firebaseio.com",
+    "project_id": "boatx-db4b0",
+    "storage_bucket": "boatx-db4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9370608580:android:b22535a72f1f8c26",
+        "android_client_info": {
+          "package_name": "android.com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9370608580-c7vfdsccsva0g6tjg73jsvh47ieea8b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxamNs9I9LFBJQPBYz7-XAmA8cx7N0ps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9370608580:android:4bf2ee1028091a71",
+        "android_client_info": {
+          "package_name": "android.com.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9370608580-c7vfdsccsva0g6tjg73jsvh47ieea8b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxamNs9I9LFBJQPBYz7-XAmA8cx7N0ps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
